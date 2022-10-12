@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="side-a.png" />
+    <None Remove="side-b.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="side-a.png" />
+    <Resource Include="side-b.png" />
+  </ItemGroup>
+
+</Project>
