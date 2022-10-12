@@ -1,1 +1,1 @@
-# sorteador-de-moedas
+# Sorteador de moeda simples (cara ou coroa) com suas respectivas porcentagens baseada no número de vezes que foi ![image-removebg-preview (7)](https://user-images.githubusercontent.com/73807067/195232055-ad6d68da-c12b-48de-a4b7-ecc9b35b6121.png)
